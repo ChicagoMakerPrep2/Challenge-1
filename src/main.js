@@ -35,6 +35,7 @@ function billTotal(total) {
 
 function animalNoise(animal, emotion) {
 // TODO: your code here
+moo
 }
 
 
